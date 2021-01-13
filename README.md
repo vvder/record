@@ -4,3 +4,4 @@ record some thing need to do
 # softwave
 
 - www.edrawsoft.com
+- GIMP
