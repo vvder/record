@@ -4,5 +4,17 @@ record some thing need to do
 # softwave
 
 - www.edrawsoft.com
+
 - GIMP
+
 - http://markdownpad.com
+
+- Hadoop 
+
+  > HDFS
+
+- glusterfs 
+
+- *No Silver Bullet—Essence and Accidents of Software Engineering*
+
+- *The Mythical Man-Month*
