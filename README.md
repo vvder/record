@@ -20,3 +20,7 @@ record some thing need to do
 - *No Silver Bullet—Essence and Accidents of Software Engineering*
 
 - *The Mythical Man-Month*
+
+- ScreenToGif
+- AutoHotKey
+- snipaste
